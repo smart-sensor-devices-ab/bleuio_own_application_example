@@ -1822,5 +1822,6 @@ _deps
 
 *.app
 
+# Build Folder
 
-/DA14683-00-Release_QSPI/
+DA14683-00-Release_QSPI/
