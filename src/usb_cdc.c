@@ -38,7 +38,7 @@ static char greeting[] = "[HELLO WORLD!]\r\n\r\n";
 //  Information that is used during enumeration.
 //
 static const USB_DEVICE_INFO _DeviceInfo = {
-        0x5B07,         // VendorId
+        0x2DCF,         // VendorId
         0x6002,         // ProductId
         "Smart Sensor Devices",       // VendorName
         "BleuIO Own App Example",   // ProductName
